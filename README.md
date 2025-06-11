@@ -1,15 +1,18 @@
 # TD POPs
 
+## Roadmap
+
 - POPs/POMPs
   - Cloth Simulation POPs
-    - Spring POP/POMP
-    - PBD Solver POP/POMP
+    - Spring POP/POMP ✅👤
+    - PBD Solver POP/POMP ⚒️👤
   
   - Motion Blur POPs
-    - ObjectMotionBlur POP/POMP
-    - AnimeMotionBlur POP/POMP
+    - ObjectMotionBlur POP/POMP 📌
+    - AnimeMotionBlur POP/POMP ⚒️👤
 
-  - ezPOPticles POMPs
+  - ezPOPticles POMPs 📌
+  - TBD
 
 
 ---
