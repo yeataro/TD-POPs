@@ -2,17 +2,26 @@
 
 ## Roadmap
 
-- POPs/POMPs
-  - Cloth Simulation POPs
-    - Spring POP/POMP ✅👤
-    - PBD Solver POP/POMP ⚒️👤
-  
-  - Motion Blur POPs
-    - ObjectMotionBlur POP/POMP 📌
-    - AnimeMotionBlur POP/POMP ⚒️👤
-
+- Physics simulation
+  - POMP for modular POP-based geometry workflows
+  - Cloth Simulation POMPs
+    - Spring POMP ✅🔒
+    - PBD Solver POMP ⚒️🔒
   - ezPOPticles POMPs 📌
-  - TBD
+
+- Rendering
+  - MotionBlur
+    - ObjectMotionBlur POP/POMP 📌
+    - AnimeMotionBlur POP/POMP ⚒️🔒
+
+- Content Generation Tools
+  - Crowd POMP
+  - City POMP
+
+- Content editing tools
+  - Weight Brush
+
+- TBD
 
 
 ---
