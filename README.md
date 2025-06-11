@@ -18,7 +18,3 @@
 ---
 
 ![](ClothSimulationPOPs/img/SpringPOP1.jpg)
-
----
-
-![](MotionBlurPOPs/AnimeMotionEffectPOP/img/Qux.jpg)
